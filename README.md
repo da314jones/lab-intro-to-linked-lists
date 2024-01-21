@@ -50,17 +50,17 @@ You will
 - Create a linked list with properties
   - head
 - Linked List Methods
-  - `insert`
-  - `size`
-  - `delete` by key
-  - `getFirst` element
-  - `getLast` element
-  - `search` an element by key and return data
-  - `getKth` retrieve kth element
-  - `getKthToLast` retrieve kth from last element
-  - `isEmpty` check if list is empty
-  - `clear` the linked list
-  - `toArray`convert data from linked list to an array
+  - `insert`X
+  - `size`X
+  - `delete` by key?
+  - `getFirst` elementX
+  - `getLast` elementX
+  - `search` an element by key and return dataX
+  - `getKth` retrieve kth element?
+  - `getKthToLast` retrieve kth from last element?
+  - `isEmpty` check if list is emptyX
+  - `clear` the linked listX
+  - `toArray`convert data from linked list to an arrayX
   - `containsDuplicates` check for duplicates - return true if contains duplicates, false if not
 
 ## Bonus
